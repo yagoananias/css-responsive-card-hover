@@ -2,7 +2,7 @@
 
 ## :bookmark: Sobre
 
-<strong>CSS Responsive Card Hover </strong> é exemplo de card hover com HTML e CSS.
+<strong>CSS Responsive Card Hover </strong> é exemplo de card hover somente com HTML e CSS.
 
 <a id="tecnologias-utilizadas"></a>
 
